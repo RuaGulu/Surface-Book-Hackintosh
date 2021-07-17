@@ -1,5 +1,5 @@
 # Surface Book Hackintosh
- Microsoft Surface Book 1 Hackintosh with macOS 11 supported, using OpenCore.
+ Microsoft Surface Book 1st Gen. Hackintosh with macOS 11 supported, using OpenCore.
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND-orange)](/LICENSE)
 
