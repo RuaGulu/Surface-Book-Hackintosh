@@ -42,6 +42,8 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
   ```
 
 - **There are possibilities to stuck during boot progress caused by keyboard & trackpad connection, please try to shut down your device completely and then reboot the device for a few times.
+- **As the Wi-Fi Network Adapter is not working, I used a USB Wi-Fi Network Adapter which is working well.
+- **Battery Percentage may not show or showing wrong data sometimes, use the battery shown in "iStats Menus" App may solve this issue.
 
 
 
