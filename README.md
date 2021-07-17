@@ -32,7 +32,7 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
     <key>ROM</key>
   - <data></data>
     <key>SpoofVendor</key>
-  + <false/>
+  + <true/>
     <key>SystemProductName</key>
   + <string>MacBookPro13,1</string>
     <key>SystemSerialNumber</key>
@@ -40,7 +40,8 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
     <key>SystemUUID</key>
   - <string></string>
   ```
-
+ <img width="494" alt="Parts need to be changed before boot" src="https://user-images.githubusercontent.com/56189742/126022218-5684525e-3801-4caf-95ea-2f6bd4ef3ca5.png">
+ 
 - **There are possibilities to stuck during boot progress caused by keyboard & trackpad connection, please try to shut down your device completely and then reboot the device for a few times.
 - **As the Wi-Fi Network Adapter is not working, I used a USB Wi-Fi Network Adapter which is working well.
 - **Battery Percentage may not show or showing wrong data sometimes, use the battery shown in "iStats Menus" App may solve this issue.
@@ -51,25 +52,26 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
 
 | Supported | Features                                                                 |
 | :-------: | :----------------------------------------------------------------------- |
-|     ✔️     | Native Hardware NVRAM                                                    |
-|     ✔️     | Intel HD 520 Graphics Card                                               |
-|     ✔️     | 2 x USB 3.0 Ports</br>with Apple Device Charging                             |
-|     ✔️     | Battery Percentage                                                       |
-|     ✔️     | Sleep & Wake (Sometimes working)                                                |
-|     ✔️     | Sensors                                                                  |
-|     ✔️     | CPU Turbo Boost                                                  |
-|     ✔️     | Trackpad</br>With Gestures                                                |
-|     ✔️     | Built-in 3000*2000 Display</br>With Native HIDPI & APIC Interrupt |
-|     ✔️     | Built-in Speakers                                       |
-|     ✔️     | Surface Book Detach & Attach                          |
-|     ✔️     | Internal Keyboard                                                  |
-|     ✔️     | Screen Brightness Control                                             |
-|     ❌     | Built-in Touchscreen                                                             |
-|     ❌     | Built-in Microphone                                                             |
-|     ❌     | 2 x Built-in Cameras & Face Recognition System                             |
-|     ❌     | Marvell AVASTAR Wireless-AC Network Adapter</br>and Bluetooth      |
-|     ❌     | Airdrop & Handoff                                                             |
-|     ❌     | NVIDIA GeForce Discrete GPU                                                  |
+|     ✔️     | Native Hardware NVRAM                                                   |
+|     ✔️     | Intel HD 520 Graphics Card                                              |
+|     ✔️     | 2 x USB 3.0 Ports</br>with Apple Device Charging                        |
+|     ✔️     | 2 x Batteries (Screen & Keyboard batteries                              |
+|     ✔️     | Battery Percentage                                                      |
+|     ✔️     | Sleep & Wake (Sometimes working)                                        |
+|     ✔️     | Sensors                                                                 |
+|     ✔️     | CPU Turbo Boost                                                         |
+|     ✔️     | Trackpad</br>With Gestures                                              |
+|     ✔️     | Built-in 3000*2000 Display</br>With Native HIDPI & APIC Interrupt       |
+|     ✔️     | Built-in Speakers                                                       |
+|     ✔️     | Surface Book Detach & Attach                                            |
+|     ✔️     | Internal Keyboard                                                       |
+|     ✔️     | Screen Brightness Control                                               |
+|     ❌     | Built-in Touchscreen                                                    |
+|     ❌     | Built-in Microphone                                                     |
+|     ❌     | 2 x Built-in Cameras & Face Recognition System                          |
+|     ❌     | Marvell AVASTAR Wireless-AC Network Adapter</br>and Bluetooth           |
+|     ❌     | Airdrop & Handoff                                                       |
+|     ❌     | NVIDIA GeForce Discrete GPU                                             |
 
 ## Special Thanks
 
@@ -87,3 +89,8 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
 - [VoodooI2C Team](https://github.com/VoodooI2C)
   - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
   - [VoodooI2CHID](https://github.com/VoodooI2C/VoodooI2C)
+
+## About Device
+
+<img width="586" alt="About Device" src="https://user-images.githubusercontent.com/56189742/126022294-409cc80e-2667-4426-ba73-b4eabcbb7c02.png">
+
