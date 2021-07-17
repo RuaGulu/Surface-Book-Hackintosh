@@ -1,0 +1,8 @@
+.DS_Store
+._*
+*.db
+*.zip
+*.rar
+*.efi
+*.aml
+**/*.kext/*
