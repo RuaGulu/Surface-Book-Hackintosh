@@ -7,7 +7,7 @@ A Working OpenCore Setup for Microsoft Surface Book 1st Gen.
 
 macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
 
-Specs:
+## Device Specification
 
 
     Model: 1st Gen. Microsoft Surface Book
@@ -34,7 +34,7 @@ Specs:
     <key>SpoofVendor</key>
   + <false/>
     <key>SystemProductName</key>
-  + <string>MacBookPro16,1</string>
+  + <string>MacBookPro13,1</string>
     <key>SystemSerialNumber</key>
   - <string></string>
     <key>SystemUUID</key>
