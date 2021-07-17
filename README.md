@@ -18,6 +18,9 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
 
     Memory: 8GB 1866MHz LPDDR3
 
+<img width="586" alt="About Device" src="https://user-images.githubusercontent.com/56189742/126022391-cddaa704-0a1c-4333-bb35-42fb90af6bf1.png">
+
+
 ## Extra Info
 
 - ***This Repo does not provide any help or support.***
@@ -90,7 +93,4 @@ macOS Catalina & Big Sur Supported, tested up to macOS 11.4.
   - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
   - [VoodooI2CHID](https://github.com/VoodooI2C/VoodooI2C)
 
-## About Device
-
-<img width="586" alt="About Device" src="https://user-images.githubusercontent.com/56189742/126022294-409cc80e-2667-4426-ba73-b4eabcbb7c02.png">
 
